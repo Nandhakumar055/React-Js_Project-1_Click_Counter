@@ -1,0 +1,29 @@
+.counter-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 15px;
+}
+
+.heading {
+  font-size: 30px;
+  text-align: center;
+}
+.count {
+  color: #c20a72;
+}
+
+.description {
+  font-size: 15px;
+  text-align: center;
+}
+
+.click-me-button {
+  color: white;
+  background-color: #007bff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+}
